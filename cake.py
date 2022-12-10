@@ -8,7 +8,7 @@ if(N>cakeangle):#only when N is greater the cake angle cake can't be cut into pi
     print("NO the cake will not cut in any pieces of size ",N)
 else:
     print("YES the cake will cut in any pieces of size",N)
-#start substracting the cake 
+#start substracting the cake    
 if (cakeangle<0):
     print("NO the cake will not cut into pieces such that no two of them are equal",N)
         
